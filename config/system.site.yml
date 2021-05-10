@@ -1,0 +1,14 @@
+uuid: 6e464a39-d568-4b56-817b-b21b5f2ecc9f
+name: jcbuildtools
+mail: jose.castaneda@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
